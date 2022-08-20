@@ -37,7 +37,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -50,7 +50,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -65,7 +65,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -106,7 +106,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -119,7 +119,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -134,7 +134,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -175,7 +175,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -188,7 +188,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -203,7 +203,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -244,7 +244,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -257,7 +257,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -272,7 +272,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -313,7 +313,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -326,7 +326,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -341,7 +341,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -382,7 +382,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -395,7 +395,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -410,7 +410,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -451,7 +451,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -464,7 +464,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -479,7 +479,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -520,7 +520,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -533,7 +533,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -548,7 +548,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -589,7 +589,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -602,7 +602,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -617,7 +617,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -658,7 +658,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -671,7 +671,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -727,7 +727,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -740,7 +740,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -796,7 +796,7 @@ const Projects = () => {
                           className="w-4 h-4 ml-2"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -809,7 +809,7 @@ const Projects = () => {
                         <svg
                           className="w-4 h-4 mr-1"
                           stroke="currentColor"
-                          W="2"
+                          
                           fill="none"
                           strokeLinecap="round"
                           strokeLinejoin="round"
