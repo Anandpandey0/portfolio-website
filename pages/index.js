@@ -1,5 +1,7 @@
 import Head from "next/head";
 import FrontPage from "../Components/FrontPage";
+import Projects from "../Components/Projects";
+import Skills from "../Components/Skills";
 
 // import Navbar from "../Components/navbar"
 
@@ -15,6 +17,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FrontPage/>
+      <Projects/>
+      <Skills/>
 
      
       

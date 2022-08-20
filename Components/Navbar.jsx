@@ -94,7 +94,7 @@ const Navbar = () => {
           className={
             nav
               ? ' fixed left-0 top-0 w-[50%] sm:w-[50%] md:w-[30%] h-screen bg-[#ecf0f3] p-10 ease-in duration-500 overflow-hidden'
-              : 'fixed left-[-100000%] top-0 p-10 ease-in duration-500 overflow-hidden'
+              : ' fixed left-[-10000px] top-0 p-10 ease-in duration-500 overflow-hidden'
           }
         >
           <div>
