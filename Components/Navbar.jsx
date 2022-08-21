@@ -62,7 +62,7 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#certificatons'>Certifications</Link>
+              <Link href='/#skills'>Skills</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/#resume'>Resume</Link>
@@ -126,27 +126,27 @@ const Navbar = () => {
                   Home
                 </li>
               </Link>
-              <Link href='/about'>
+              <Link href='/#about'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm hover:cursor-pointer'>
                   About
                 </li>
               </Link>
-              <Link href='../Components/projects.js'>
+              <Link href='/#projects'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm hover:cursor-pointer'>
                   Projects
                 </li>
               </Link>
-              <Link href='../Components/certifications.js'>
+              <Link href='/#skills'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm hover:cursor-pointer'>
-                  Certifications
+                  Skills
                 </li>
               </Link>
-              <Link href='../Components/resume.js'>
+              <Link href='/#resume'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm hover:cursor-pointer'>
                   Resume
                 </li>
               </Link>
-              <Link href='../Components/contact.js'>
+              <Link href='/#contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm hover:cursor-pointer'>
                   Contact
                 </li>

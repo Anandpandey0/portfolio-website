@@ -14,7 +14,7 @@ const FrontPage = () => {
       id="home"
       className="w-full h-screen text-center resposive-text bg-white text-black "
     >
-      <div className="  max-w-[1240px] w-full  h-full mx-auto p-2 flex flex-col flex-col-reverse   items-center  justify-around border-solid border-2 border-black overflow-hidden  sm:flex-row sm:flex-row-reverse ">
+      <div className="  max-w-[1240px] w-full  h-full mx-auto p-2 flex  flex-col-reverse   items-center  justify-around  overflow-hidden   sm:flex-row-reverse ">
         <div className="left mx-2 w-2/3 h-auto  flex flex-col overflow-hidden ">
           <h2 className=" mt-3 text-blue-500   h-auto overflow-hidden ">
             Hi, I am Anand Pandey

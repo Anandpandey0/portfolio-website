@@ -4,13 +4,14 @@ import Logo from "../public/assets/logo.jpg";
 
 const Projects = () => {
   return (
-    <div id="projects">
+    <div id="projects" className="bg-white">
+      <h2 className="flex flex-wrap justify-center ">Projects</h2>
       <div className="project-cards ">
-        <section className="text-gray-600 body-font">
+        <section className="text-gray-600 body-font ">
           <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-wrap -m-4">
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300  p-2 bg-[#ecf0f3]">
                   {/* <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog"> */}
                   <Image
                     src={Logo}
@@ -80,7 +81,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -149,7 +150,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -218,7 +219,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -287,7 +288,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -356,7 +357,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -425,7 +426,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -494,7 +495,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -563,7 +564,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-gray-400  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -632,7 +633,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -701,7 +702,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"
@@ -770,7 +771,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="p-4 md:w-1/3">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 bg-[#ecf0f3]">
                   <Image
                     src={Logo}
                     alt="/"

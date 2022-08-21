@@ -5,7 +5,7 @@ const CardTemplate = () => {
   return (
     <div>
       <div className="p-4 md:w-1/3">
-        <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2">
+        <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-xl shadow-blue-800  cursor-pointer hover:scale-105 ease-in  duration-300  p-2">
           <Image
             src={Logo}
             alt="/"
