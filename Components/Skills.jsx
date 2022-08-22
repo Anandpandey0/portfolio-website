@@ -7,9 +7,9 @@ const Skills = () => {
   return (
     <div id="skills" className="h-full w-full bg-[#ecf0f3]">
       <div className="skills-card flex flex-wrap flex-col justify-evenly">
-        <div className="text-black py-20 lg:py-[120px] overflow-hidden relative z-10">
-          <div className="container xl:max-w-6xl mx-auto px-4">
-            <header className="text-center mx-auto mb-12 lg:px-20">
+        <div className="text-black py-20 lg:py-[10px] overflow-hidden relative z-5">
+          <div className="container xl:max-w-3xl mx-auto px-2">
+            <header className="text-center mx-auto mb- lg:px-10">
               <h2 className="text-2xl leading-normal mb-2 font-bold ">
                 Tecnologies / Frameworks
               </h2>
