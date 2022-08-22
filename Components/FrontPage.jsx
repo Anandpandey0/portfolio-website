@@ -45,7 +45,7 @@ const FrontPage = () => {
             </a>
           </div>
           <div className="like-button flex flex-start mt-5 mx-10 ">
-            <button className="shadow-xl shadow-gray-400 bg-blue-800 cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 text-white ">⭐Star My Github </button>
+            <button className="shadow-xl shadow-gray-400 bg-blue-800 cursor-pointer hover:scale-105 ease-in  duration-300 rounded-md p-2 text-white " >⭐Star My Github </button>
           </div>
         </div>
         <div className="right justify-center items-center align-center border-solid border-2 border-green-500 overflow-hidden ml-6 rounded-full w-2/5 h-2/5">

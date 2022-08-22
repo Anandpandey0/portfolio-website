@@ -5,7 +5,7 @@ import RJs from "../public/assets/react.png";
 
 const Skills = () => {
   return (
-    <div id="skills" className="h-screen w-full bg-[#ecf0f3]">
+    <div id="skills" className="h-full w-full bg-[#ecf0f3]">
       <div className="skills-card flex flex-wrap flex-col justify-evenly">
         <div className="text-black py-20 lg:py-[120px] overflow-hidden relative z-10">
           <div className="container xl:max-w-6xl mx-auto px-4">

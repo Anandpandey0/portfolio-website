@@ -2,6 +2,7 @@ import Head from "next/head";
 import FrontPage from "../Components/FrontPage";
 import Projects from "../Components/Projects";
 import Skills from "../Components/Skills";
+import Contact from "../Components/Contact";
 
 // import Navbar from "../Components/navbar"
 
@@ -19,6 +20,7 @@ export default function Home() {
       <FrontPage/>
       <Projects/>
       <Skills/>
+      <Contact/>
 
      
       
