@@ -5,8 +5,6 @@ import Skills from "../Components/Skills";
 import Contact from "../Components/Contact";
 
 
-// import Navbar from "../Components/navbar"
-
 
 
 
@@ -22,6 +20,7 @@ export default function Home() {
       <Projects/>
       <Skills/>
       <Contact/>
+      
       
 
      
